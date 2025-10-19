@@ -2,8 +2,7 @@
 share: true
 ---
 
-CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm  
-https://skoredin.pro/blog/cpu-cache-friendly-data-structures-go  
+[CPU Cache-Friendly Data Structures in Go: 10x Speed with Same Algorithm ](https://skoredin.pro/blog/cpu-cache-friendly-data-structures-go  )
 
 This article by Serge Skoredin explores how to optimize Go data structures for modern CPU cache hierarchies to significantly improve performance without changing core algorithms. It emphasizes the impact of cache misses, false sharing, and poor data layouts on real-world applications, showing how data-oriented design can achieve 5–15x speedups.
 
