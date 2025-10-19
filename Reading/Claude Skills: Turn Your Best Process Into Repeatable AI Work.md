@@ -43,7 +43,7 @@ Claude Skills are a new feature by Anthropic that allows teams to convert their 
 ---
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Ideas & Processes] --> B[Create Skill Folder]
     B --> C[Instructions + References + Optional Code]
     C --> D[Claude Detects Relevant Skill]
